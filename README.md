@@ -1,4 +1,4 @@
-## Oscar Bustos - @elchiconube 👨‍💻 👨‍👩‍👧‍👧 ⛰️
+## Oscar Bustos - @elchiconube 👨‍👩‍👧‍👧 👨‍💻 ⛰️
 
 I’m a **Frontend Developer** with strong UI/UX skills. I consider myself a self-taught developer with a passion for clean and elegant websites, as well as for apps which are easy to use and simple to manage.
 
