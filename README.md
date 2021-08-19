@@ -16,17 +16,17 @@ Also, I worked as an associate professor at U-Tad, first University that is spec
 
 ### ⌨️ My Tech Stack...
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%A64563?style=flat-square&logo=javascript&logoColor=white&color=A64563)
-![React](https://img.shields.io/badge/-React-%71485F?style=flat-square&logo=react&logoColor=white&color=71485F)
-![Next.js](https://img.shields.io/badge/-NEXTjs-%37323E?style=flat-square&logo=next.js&logoColor=white&color=37323E)
-![HTML5](https://img.shields.io/badge/-HTML5-%E06088?style=flat-square&logo=html5&logoColor=white&color=E06088)
-![CSS3](https://img.shields.io/badge/-CSS3-%DA4167?style=flat-square&logo=css3&logoColor=white&color=DA4167)
-![Styled components](https://img.shields.io/badge/-StyledComponents-%71485F?style=flat-square&logo=styled-components&logoColor=white&color=71485F)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%A64563?style=flat-square&logo=javascript&logoColor=white&color=yellow)
+![React](https://img.shields.io/badge/-React-%71485F?style=flat-square&logo=react&logoColor=white&color=yellow)
+![Next.js](https://img.shields.io/badge/-NEXTjs-%37323E?style=flat-square&logo=next.js&logoColor=white&color=yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-%E06088?style=flat-square&logo=html5&logoColor=white&color=yellow)
+![CSS3](https://img.shields.io/badge/-CSS3-%DA4167?style=flat-square&logo=css3&logoColor=white&color=yellow)
+![Styled components](https://img.shields.io/badge/-StyledComponents-%71485F?style=flat-square&logo=styled-components&logoColor=white&color=yellow)
 
 ### 🌱 I'm learning...
 
-![Node.js](https://img.shields.io/badge/-NodeJs-%E06088?style=flat-square&logo=node.js&logoColor=white&color=E06088)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%DA4167?style=flat-square&logo=mongodb&logoColor=white&color=DA4167)
+![Node.js](https://img.shields.io/badge/-NodeJs-%E06088?style=flat-square&logo=node.js&logoColor=white&color=yellow)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%DA4167?style=flat-square&logo=mongodb&logoColor=white&color=yellow)
 
 ### 📫 Get in touch!
 
