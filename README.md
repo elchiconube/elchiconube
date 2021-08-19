@@ -1,15 +1,17 @@
 ## Oscar Bustos - @elchiconube 👨‍💻 👨‍👩‍👧‍👧 ⛰️
 
-**Frontend Developer**, constantly evolving and learning. Methodical, adaptive, **always curious** and committed to give the best in everything I do.
+I’m a **Frontend Developer** with strong UI/UX skills. I consider myself a self-taught developer with a passion for clean and elegant websites, as well as for apps which are easy to use and simple to manage.
 
-The world of technology hooked me immediately, because of its transversality and the constant challenges it entails, as well as the opportunity to take my creative and analytical potential to the **next level**.
+My work philosophy is kaizen, also known as continuous improvement and it’s focused on web technologies like HTML5, CSS3, Javascript, without neglecting performance optimization, clean design, and great user experience.
+
+Also, I worked as an associate professor at U-Tad, first University that is specialized in training in the major areas associated with the value chain of the digital economy: Digital Business, Engineering, and Art & Design.
 
 ### 💬 Ask me about...
 
 - 👨‍👩‍👧‍👧 Positive parenting
 - 🕹️ Videogames
 - 🍳 Cooking
-- 🗺️ Travel
+- 🧑‍🏫 Mentoring
 - 🤖 Gadgets
 
 ### ⌨️ My Tech Stack...
