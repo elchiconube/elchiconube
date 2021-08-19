@@ -29,6 +29,6 @@ The world of technology hooked me immediately, because of its transversality and
 ### 📫 Get in touch!
 
 <p>
-  <a href="https://twitter.com/elchiconube" target="_blank"><img src="https://img.shields.io/badge/-@clarettetedi-37323E?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter"></a>
+  <a href="https://twitter.com/elchiconube" target="_blank"><img src="https://img.shields.io/badge/-@elchiconube-37323E?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter"></a>
   <a href="https://linkedin.com/in/oscarbustos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-E06088?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"></a>
 </p>
