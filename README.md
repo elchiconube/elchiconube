@@ -1,6 +1,6 @@
-## Oscar Bustos - @elchiconube :earth_americas: :computer:
+## Oscar Bustos - @elchiconube 👨‍💻 👨‍👩‍👧‍👧 ⛰️
 
-👨‍💻 **Frontend Developer**, constantly evolving and learning. Methodical, adaptive, **always curious** and committed to give the best in everything I do.
+**Frontend Developer**, constantly evolving and learning. Methodical, adaptive, **always curious** and committed to give the best in everything I do.
 
 The world of technology hooked me immediately, because of its transversality and the constant challenges it entails, as well as the opportunity to take my creative and analytical potential to the **next level**.
 
