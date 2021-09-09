@@ -32,6 +32,6 @@ Also, I worked as an associate professor at U-Tad, first University that is spec
 
 <p>
   <a href="https://twitter.com/elchiconube" target="_blank"><img src="https://img.shields.io/badge/-@elchiconube-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter"></a>
-    <a href="https://github.com/elchiconube/" target="_blank"><img src="https://img.shields.io/badge/-Github-010409?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Github"></a>
+    <a href="https://github.com/elchiconube/" target="_blank"><img src="https://img.shields.io/badge/-Github-010409?style=for-the-badge&logo=github&logoColor=white" alt="My Github"></a>
   <a href="https://linkedin.com/in/oscarbustos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"></a>
 </p>
