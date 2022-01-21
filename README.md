@@ -35,3 +35,6 @@ Also, I worked as an associate professor at U-Tad, first University that is spec
     <a href="https://github.com/elchiconube/" target="_blank"><img src="https://img.shields.io/badge/-Github-010409?style=for-the-badge&logo=github&logoColor=white" alt="My Github"></a>
   <a href="https://linkedin.com/in/oscarbustos/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"></a>
 </p>
+
+[![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=elchiconube)](https://github.com/anuraghazra/github-readme-stats)
+
