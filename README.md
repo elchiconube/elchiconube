@@ -26,6 +26,7 @@ Also, I worked as an associate professor at U-Tad, first University that is spec
 ### 🌱 I'm learning...
 
 ![Node.js](https://img.shields.io/badge/-NodeJs-%E06088?style=flat-square&logo=node.js&logoColor=white&color=026e00)
+![Python](https://img.shields.io/badge/-Python-%DA4167?style=flat-square&logo=mongodb&logoColor=white&color=fbec74)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%DA4167?style=flat-square&logo=mongodb&logoColor=white&color=13aa52)
 
 
