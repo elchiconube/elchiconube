@@ -36,4 +36,14 @@ Also, I worked as an associate professor at U-Tad, first University that is spec
   <a href="https://twitter.com/elchiconube" target="_blank"><img src="https://img.shields.io/badge/-@elchiconube-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter"></a>
 </p>
 
+
+<a href="https://github.com/elchiconube/stats">
+  <img height=200 align="center" src="https://stats-three-mu.vercel.app/api?username=elchiconube" />
+</a>
+<a href="https://github.com/elchiconube/stats">
+  <img height=200 align="center" src="https://stats-three-mu.vercel.app/api/top-langs?username=elchiconube&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
 ![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=elchiconube&count_private=true&theme=tokyonight&hide=contribs,prs)
