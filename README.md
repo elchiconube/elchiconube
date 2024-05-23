@@ -37,12 +37,4 @@ Also, I worked as an associate professor at U-Tad, first University that is spec
 </p>
 
 
-<a href="https://github.com/elchiconube">
-  <img height=200 align="center" src="https://stats-f6ee5ovep-bizcochis.vercel.app/api?username=elchiconube" />
-</a>
-<a href="https://github.com/elchiconube">
-  <img height=200 align="center" src="https://stats-f6ee5ovep-bizcochis.vercel.app/api/top-langs?username=elchiconube&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
 
